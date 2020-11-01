@@ -2,9 +2,6 @@
 #include <string>
 
 using namespace std;
-
-
-
 class Bike {
 public:
     int numberOfGears;
